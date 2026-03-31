@@ -1,0 +1,14 @@
+Open Source Manifesto
+----------------------
+
+On 31 March 2026, I stand as a believer in the power of open source and the spirit of collaboration.
+In my daily life, I use tools like Linux, which empower me to learn, create, and innovate freely.
+To me, knowledge represents the ability to share knowledge, collaborate without barriers, and grow together as a global community.
+
+I believe that technology should not be limited by restrictions, but instead should be accessible to everyone, regardless of their background.
+My vision is to contribute to the world by building an open-source AI learning assistant that helps students learn coding and problem-solving — something meaningful that can help others and be shared openly.
+
+Open source is more than just code; it is a philosophy of trust, transparency, and collective growth.
+Through my journey as a developer, I commit to learning continuously, contributing to open communities, and supporting the idea that knowledge should be free and shared.
+
+This is my manifesto — a promise to embrace openness, collaboration, and the true spirit of innovation.
